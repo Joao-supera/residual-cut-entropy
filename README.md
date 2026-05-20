@@ -6,8 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/1243877803.svg)](https://doi.org/10.5281/zenodo.20300225)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/Joao-supera/SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION)](https://github.com/Joao-supera/SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/Joao-supera/SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION?style=social)](https://github.com/Joao-supera/SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION)
+
 
 **DOI:** https://doi.org/10.5281/zenodo.20300225  
 **Repository:** https://github.com/Joao-supera/SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION
