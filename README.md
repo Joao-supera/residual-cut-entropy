@@ -71,3 +71,25 @@ residual-cut-entropy/
 ├── Paper.pdf      # Compiled manuscript
 ├── README.md      # Project overview
 └── LICENSE        # CC BY 4.0
+
+@misc{batista2026residual,
+  author       = {João Henrique de Souza Batista},
+  title        = {Residual Cut Entropy for Tseitin Formulas:
+                  An Information-Theoretic Perspective on Exponential OBDD Lower Bounds},
+  year         = {2026},
+  note         = {Preprint},
+  url          = {https://github.com/Joao-supera/residual-cut-entropy}
+}
+
+Author
+
+João Henrique de Souza Batista
+Independent Researcher
+Brazil
+
+GitHub: https://github.com/Joao-supera
+LinkedIn: https://www.linkedin.com/in/joaohenriquedigital/
+License
+
+This work is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
