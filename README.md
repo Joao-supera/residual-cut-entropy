@@ -1,6 +1,6 @@
 # 📘 SUP3RA-CORE-P-VS-NP-THE-NEXT-GENERATION™
 
-# [![DOI](https://zenodo.org/badge/1243877803.svg)](https://doi.org/10.5281/zenodo.20300225)
+[![DOI](https://zenodo.org/badge/1243877803.svg)](https://doi.org/10.5281/zenodo.20300225)
 
 ## Residual Cut Entropy for Tseitin Formulas
 
