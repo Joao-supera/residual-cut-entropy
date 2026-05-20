@@ -6,7 +6,6 @@ An Information-Theoretic Perspective on Exponential OBDD Lower Bounds**
 [![DOI](https://zenodo.org/badge/1243877803.svg)](https://doi.org/10.5281/zenodo.20300225)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/Joao-supera/residual-cut-entropy)](https://github.com/Joao-supera/residual-cut-entropy/releases)
-[![GitHub stars](https://img.shields.io/github/stars/Joao-supera/residual-cut-entropy?style=social)](https://github.com/Joao-supera/residual-cut-entropy)
 
 ---
 
